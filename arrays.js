@@ -7,6 +7,6 @@ return [twix, ... chocolateBars]
 
 
 function destructivelyAddElementToBeginningOfArray(chocolateBars, mars){
- chocolateBars.unshift("mars")
- 
+ chocolateBars.unshift("mars");
+ return chocolateBars
 }

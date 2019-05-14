@@ -1,7 +1,7 @@
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-Function (addElementToBeginningOfArray) 
+Function addElementToBeginningOfArray
 var array = ["Inese", "Sintija", "Martin"]
 chocolateBars.unshift("Vija")
 

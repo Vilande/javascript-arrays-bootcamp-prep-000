@@ -20,5 +20,6 @@ chocolateBars.push("foo");
 return chocolateBars
 }
 
-function accessElementInArray(array, index)
+function accessElementInArray(chocolateBars, 2)
+return chocolateBars [2]
 

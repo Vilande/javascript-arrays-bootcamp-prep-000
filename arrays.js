@@ -38,6 +38,6 @@ function destructivelyRemoveElementFromEndOfArray(chocolateBars){
   return chocolateBars
 }
 
-Function removeElementFromEndOfArray(chocolateBars ) {
+function removeElementFromEndOfArray(chocolateBars){
   
 }

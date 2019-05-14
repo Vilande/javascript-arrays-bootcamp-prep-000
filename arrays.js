@@ -29,5 +29,8 @@ function destructivelyRemoveElementFromBeginningOfArray(chocolateBars){
   return chocolateBars
 }
 
-function
+function removeElementFromBeginningOfArray(chocolateBars){
+  chocolateBars.slice(1)
+  return chocolateBars
+}
 

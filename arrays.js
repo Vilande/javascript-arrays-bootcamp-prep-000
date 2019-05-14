@@ -20,6 +20,6 @@ chocolateBars.push("foo");
 return chocolateBars
 }
 
-function accessElementInArray(chocolateBars, hundred grand){
-return chocolateBars [2]
+function accessElementInArray(chocolateBars, 1){
+return chocolateBars [1]
 }
